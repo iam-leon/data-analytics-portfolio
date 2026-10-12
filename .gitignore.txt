@@ -1,0 +1,34 @@
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & temp files ---
+*.log
+*.tmp
+
+# --- Power BI autosave files ---
+*.pbix.autosave
+
+# --- Jupyter notebook checkpoints (Python) ---
+.ipynb_checkpoints/
+
+# --- Python cache files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments (Python) ---
+env/
+venv/
+.venv/
+
+# --- Excel temporary files ---
+~$*.xlsx
+
+# --- SQL dump files (large exports) ---
+*.sql
+*.bak
+
+# --- VS Code settings (optional) ---
+.vscode/
